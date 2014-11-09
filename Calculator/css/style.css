@@ -1,0 +1,32 @@
+body {
+  background-color: #ccc;
+}
+
+.container {
+  margin-top: 50px;
+  border-radius:10px;
+  width: 400px;
+  background-color: #303333;
+  text-align: center;
+  border: solid 2px #02E063;
+}
+
+.title {
+  color: #02E063;
+}
+
+
+
+p {
+  color: white;
+}
+
+button {
+  width: 50px;
+  font-size: 18px;
+  margin-right: 5px;
+  margin-top: 5px;
+  border-radius: 20px;
+  color: #000;
+  background-color: #ccc;
+}
