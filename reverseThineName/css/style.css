@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  display: block;
+  width: 300px;
+  background-color: #eee;
+  border-radius: 10px
+
+  
+}
+
+.reversed {
+  color: green;
+}
+
+h1 {
+  color: #1D1F20;
+}
