@@ -1,4 +1,4 @@
 learning-Javascript
 ===================
 
-Home for my apps I make while learning
+Home for all the apps I make learning Javascript.
