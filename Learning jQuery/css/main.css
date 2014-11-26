@@ -1,0 +1,17 @@
+
+body {
+  text-align: center;
+}
+
+span {
+  font-size: 60px;
+  margin-right: 5px;
+  display: none;
+  color: #0280ce;
+
+}
+
+button {
+  margin-top: 50px;
+  font-size: 50px;
+}
