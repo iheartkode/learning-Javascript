@@ -1,3 +1,4 @@
+'use strict'
 class Product {
   constructor(price, id, quantity) {
     this.price = price;
